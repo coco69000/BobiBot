@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29515238845",
+    "project_id": "bobibot-4c2ca",
+    "storage_bucket": "bobibot-4c2ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29515238845:android:8f3c68634c171ee56556d4",
+        "android_client_info": {
+          "package_name": "com.parrel.bobibot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hocsPcEGFE8IBBX2Jtdyufe0xaw2l8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
